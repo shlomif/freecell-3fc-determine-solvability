@@ -3,7 +3,7 @@ Here is how to install, build and run fc-solve:
 * Install some dependencies:
 
 ```
-pacman -S cmake gcc git parallel perl perl-path-tiny
+pacman -S cmake gcc git gperftools parallel perl perl-path-tiny perl-template-toolkit
 ```
 
 *
