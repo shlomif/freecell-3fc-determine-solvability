@@ -1,5 +1,5 @@
 cat /home/shlomif/Download/unpack/games/freecell/freecell-pro-3fc-deals/Int3.txt |
-perl -lanE 'print if ( $_ > 6203988983 )' |
+perl -lanE 'print if ( $_ > 6487866417 )' |
 (
 # lim=12000000
 # lim=8500000
