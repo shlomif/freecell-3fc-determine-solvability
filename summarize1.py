@@ -1,7 +1,8 @@
 import re
 
 def line_iter():
-    FILENAMES = ['freecell-3fc-intractables.dump.txt', 'vendu-3fc-output.txt', 'vendu-2-3fc-output.txt', 'vendu-3-3fc-output.txt', 'vendu-4-3fc-output.txt', 'freecell-3fc-5e9-intractables.dump.txt', 'freecell-3fc-6e9-intractables.dump.txt',]
+    # 'vendu-3fc-output.txt'
+    FILENAMES = ['freecell-3fc-intractables.dump.txt', 'vendu-2-3fc-output.txt', 'vendu-3-3fc-output.txt', 'vendu-4-3fc-output.txt', 'freecell-3fc-5e9-intractables.dump.txt', 'freecell-3fc-6e9-intractables.dump.txt',]
     for fn in FILENAMES:
         with open(fn, 'r') as fh:
             for l in fh:
@@ -10,6 +11,7 @@ def line_iter():
 def deal_iter():
     it = line_iter()
     l = it.next()
+    prev_idx = -1
     while l:
         lines = [l]
         l = it.next()
@@ -36,8 +38,11 @@ def deal_iter():
                     break
         else:
             print(lines)
-            # raise BaseException("Invalid state - %d" % (idx1))
-            print("Invalid state - %d" % (idx1))
+            raise BaseException("Invalid state - %d" % (idx1))
+            # print("Invalid state - %d" % (idx1))
+        if not idx1 > prev_idx:
+            raise BaseException("Wrong indexes order %d -> %d" % (prev_idx, idx1))
+        prev_idx = idx1
         yield {'idx': idx1, 'verdict': verdict, 'count': count}
         l = it.next()
 
