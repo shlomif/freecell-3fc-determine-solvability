@@ -1,4 +1,4 @@
-log_fn="$HOME/Backup/Arcs/freecell-3fc-6e9-intractables.dump.txt"
+log_fn="$HOME/Backup/Arcs/freecell-3fc-7e9-intractables.dump.txt"
 if test -e "$log_fn"
 then
     export START_FROM="$(tail -1 "$log_fn" | perl -lnE 'print $1 if /\A\[\[== End ([0-9]+) ==/')"
