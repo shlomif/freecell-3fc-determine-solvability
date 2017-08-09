@@ -15,6 +15,22 @@ perl -lnE 'BEGIN { $s = int $ENV{START_FROM} ; } print if ( $_ > $s )' |
 (
 # lim=12000000
 # lim=8500000
-parallel -j4 --group --keep-order \
-    bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 2400000 "{}"
+#parallel -j1 \
+    # bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000 "{}"
+# parallel -j1 --keep-order \
+    # bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000 "{}"
+# parallel -j1 --group \
+  #  bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000 "{}"
+parallel -j1 --group --keep-order \
+    bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000 "{}"
+# xargs -n 1 \
+#    bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000
+canc()
+{
+while read deal
+do
+    bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000 "$deal"
+
+done
+}
 ) | tee -a "$log_fn"
