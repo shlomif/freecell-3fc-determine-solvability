@@ -2,7 +2,7 @@ import re
 
 def line_iter():
     # 'vendu-3fc-output.txt'
-    FILENAMES = ['freecell-3fc-intractables.dump.txt', 'vendu-2-3fc-output.txt', 'vendu-3-3fc-output.txt', 'vendu-4-3fc-output.txt', 'freecell-3fc-5e9-intractables.dump.txt', 'freecell-3fc-6e9-intractables.dump.txt', 'freecell-3fc-7e9-intractables.dump.txt', 'vendu-5-3fc-output.txt', ]
+    FILENAMES = ['freecell-3fc-intractables.dump.txt', 'vendu-6-3fc-output.txt', 'vendu-2-3fc-output.txt', 'vendu-3-3fc-output.txt', 'vendu-4-3fc-output.txt', 'freecell-3fc-5e9-intractables.dump.txt', 'freecell-3fc-6e9-intractables.dump.txt', 'freecell-3fc-7e9-intractables.dump.txt', 'vendu-5-3fc-output.txt', ]
     for fn in FILENAMES:
         with open(fn, 'r') as fh:
             for l in fh:
