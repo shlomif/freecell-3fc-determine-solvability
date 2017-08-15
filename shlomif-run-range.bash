@@ -1,4 +1,5 @@
 log_fn="$HOME/Backup/Arcs/freecell-3fc-7e9-intractables.dump.txt"
+# log_fn="$HOME/Backup/Arcs/freecell-3fc-7e9-TEMP_TO_DEL.dump.txt"
 if test -e "$log_fn"
 then
     export START_FROM="$(tail -1 "$log_fn" | perl -lnE 'print $1 if /\A\[\[== End ([0-9]+) ==/')"
@@ -21,11 +22,11 @@ perl -lnE 'BEGIN { $s = int $ENV{START_FROM} ; } print if ( $_ > $s )' |
     # bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000 "{}"
 # parallel -j1 --group \
   #  bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000 "{}"
-parallel -j1 --group --keep-order \
-    bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000 "{}"
+# parallel -j1 --group --keep-order \
+    # bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000 "{}"
 # xargs -n 1 \
 #    bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 8500000
-canc()
+run1()
 {
 while read deal
 do
@@ -33,4 +34,13 @@ do
 
 done
 }
+run_temp()
+{
+while read deal
+do
+    bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 10000 "$deal"
+done
+}
+run1
+# run_temp
 ) | tee -a "$log_fn"
