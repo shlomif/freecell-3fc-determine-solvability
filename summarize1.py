@@ -25,17 +25,21 @@ def deal_iter():
             raise BaseException("index mismatch - %d ; %d" % (idx1,idx2))
         verdict = None
         count = -1
-        if len([x for x in lines if x.startswith("I could not solve this game.")]) > 0:
-            verdict = "impossible"
-        elif len([x for x in lines if x.startswith("This game is solv")]) > 0:
-            verdict = "solved"
-        elif len([x for x in lines if x.startswith("Iterations count exceeded")]) > 0:
-            verdict = "intract"
-            for x in lines:
-                m = re.match(r'^Total number of states checked is ([0-9]+)\.', x)
-                if m:
-                    count = int(m.group(1))
-                    break
+        for x in lines:
+            if x.startswith("I could not"):
+                verdict = "impossible"
+                break
+            elif x.startswith("This game is solv"):
+                verdict = "solved"
+                break
+            elif x.startswith("Iterations count exceeded"):
+                verdict = "intract"
+                for y in lines:
+                    m = re.match(r'^Total number of states checked is ([0-9]+)\.', y)
+                    if m:
+                        count = int(m.group(1))
+                        break
+                break
         else:
             print(lines)
             raise BaseException("Invalid state - %d" % (idx1))
