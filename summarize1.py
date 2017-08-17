@@ -46,5 +46,9 @@ def deal_iter():
         yield {'idx': idx1, 'verdict': verdict, 'count': count}
         l = it.next()
 
+cnt = 0
 for d in deal_iter():
-    pass # print(d)
+    cnt += 1
+    # print(d)
+
+print("Deals Count = %d" % (cnt))
