@@ -41,6 +41,12 @@ do
     bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 10000 "$deal"
 done
 }
+par1()
+{
+    (parallel -j4 --group --keep-order \
+        bash ~/Download/unpack/games/freecell/freecell-3fc-determine-solvability/run-single.bash 1000000 "{}" ) 2>&1
+}
+# par1
 run1
 # run_temp
 ) | tee -a "$log_fn"
