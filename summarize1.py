@@ -4,6 +4,7 @@ count_re = re.compile(r'^Total number of states checked is ([0-9]+)\.')
 start_re = re.compile(r'^== ([0-9]+) ==$')
 end_re = re.compile(r'^\[\[== End ([0-9]+) ==\]\]$')
 
+
 class DealResult(object):
     """a deal result"""
 
@@ -31,15 +32,25 @@ class DealResult(object):
                 break
         else:
             print(lines)
-            raise BaseException("Invalid state - %d" % (idx1))
+            raise BaseException("Invalid state - %d" % (idx))
+
 
 def line_iter():
     # 'vendu-3fc-output.txt'
-    FILENAMES = ['vendu-7-3fc-output.txt', 'freecell-3fc-amazon.txt', 'vendu-6-3fc-output.txt', 'vendu-2-3fc-output.txt', 'vendu-3-3fc-output.txt', 'vendu-4-3fc-output.txt', 'vendu-5-3fc-output.txt', ]
+    FILENAMES = [
+           'vendu-7-3fc-output.txt',
+           'freecell-3fc-amazon.txt',
+           'vendu-6-3fc-output.txt',
+           'vendu-2-3fc-output.txt',
+           'vendu-3-3fc-output.txt',
+           'vendu-4-3fc-output.txt',
+           'vendu-5-3fc-output.txt',
+           ]
     for fn in FILENAMES:
         with open(fn, 'r') as fh:
             for l in fh:
                 yield l.rstrip('\r\n')
+
 
 def deal_iter():
     it = line_iter()
@@ -55,10 +66,11 @@ def deal_iter():
         idx1 = int(start_re.match(lines[0]).group(1))
         idx2 = int(end_re.match(lines[-1]).group(1))
         if idx1 != idx2:
-            raise BaseException("index mismatch - %d ; %d" % (idx1,idx2))
+            raise BaseException("index mismatch - %d ; %d" % (idx1, idx2))
         result = DealResult(idx1, lines)
         if not idx1 > prev_idx:
-            raise BaseException("Wrong indexes order %d -> %d" % (prev_idx, idx1))
+            raise BaseException("Wrong indexes order %d -> %d" %
+                                (prev_idx, idx1))
         prev_idx = idx1
         yield result
         l = it.next()
