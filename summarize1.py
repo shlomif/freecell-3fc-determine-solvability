@@ -1,6 +1,8 @@
 import re
 
 count_re = re.compile(r'^Total number of states checked is ([0-9]+)\.')
+start_re = re.compile(r'^== ([0-9]+) ==$')
+end_re = re.compile(r'^\[\[== End ([0-9]+) ==\]\]$')
 
 class DealResult(object):
     """a deal result"""
@@ -50,8 +52,8 @@ def deal_iter():
             lines.append(l)
             l = it.next()
         lines.append(l)
-        idx1 = int(re.match(r'^== ([0-9]+) ==$', lines[0]).group(1))
-        idx2 = int(re.match(r'^\[\[== End ([0-9]+) ==\]\]$', lines[-1]).group(1))
+        idx1 = int(start_re.match(lines[0]).group(1))
+        idx2 = int(end_re.match(lines[-1]).group(1))
         if idx1 != idx2:
             raise BaseException("index mismatch - %d ; %d" % (idx1,idx2))
         result = DealResult(idx1, lines)
