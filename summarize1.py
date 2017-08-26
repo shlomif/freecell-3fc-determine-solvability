@@ -1,5 +1,36 @@
 import re
 
+count_re = re.compile(r'^Total number of states checked is ([0-9]+)\.')
+
+class DealResult(object):
+    """a deal result"""
+
+    IMP = 0
+    SOLVED = 1
+    INTRACT = 2
+
+    def __init__(self, idx, lines):
+        self.idx = idx
+        self.count = -1
+        for x in lines:
+            if x.startswith("I could not"):
+                self.verdict = self.IMP
+                break
+            elif x.startswith("This game is solv"):
+                self.verdict = self.SOLVED
+                break
+            elif x.startswith("Iterations count exceeded"):
+                self.verdict = self.INTRACT
+                for y in lines:
+                    m = count_re.match(y)
+                    if m:
+                        self.count = int(m.group(1))
+                        break
+                break
+        else:
+            print(lines)
+            raise BaseException("Invalid state - %d" % (idx1))
+
 def line_iter():
     # 'vendu-3fc-output.txt'
     FILENAMES = ['vendu-7-3fc-output.txt', 'freecell-3fc-amazon.txt', 'vendu-6-3fc-output.txt', 'vendu-2-3fc-output.txt', 'vendu-3-3fc-output.txt', 'vendu-4-3fc-output.txt', 'vendu-5-3fc-output.txt', ]
@@ -23,31 +54,11 @@ def deal_iter():
         idx2 = int(re.match(r'^\[\[== End ([0-9]+) ==\]\]$', lines[-1]).group(1))
         if idx1 != idx2:
             raise BaseException("index mismatch - %d ; %d" % (idx1,idx2))
-        verdict = None
-        count = -1
-        for x in lines:
-            if x.startswith("I could not"):
-                verdict = "impossible"
-                break
-            elif x.startswith("This game is solv"):
-                verdict = "solved"
-                break
-            elif x.startswith("Iterations count exceeded"):
-                verdict = "intract"
-                for y in lines:
-                    m = re.match(r'^Total number of states checked is ([0-9]+)\.', y)
-                    if m:
-                        count = int(m.group(1))
-                        break
-                break
-        else:
-            print(lines)
-            raise BaseException("Invalid state - %d" % (idx1))
-            # print("Invalid state - %d" % (idx1))
+        result = DealResult(idx1, lines)
         if not idx1 > prev_idx:
             raise BaseException("Wrong indexes order %d -> %d" % (prev_idx, idx1))
         prev_idx = idx1
-        yield {'idx': idx1, 'verdict': verdict, 'count': count}
+        yield result
         l = it.next()
 
 cnt = 0
