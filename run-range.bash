@@ -1,4 +1,4 @@
-log_fn="$HOME/freecell-3fc-determine-solvability/vendu-8-3fc-output.txt"
+log_fn="$HOME/freecell-3fc-determine-solvability/vendu-9-3fc-output.txt"
 
 if test -e "$log_fn"
 then
@@ -13,7 +13,7 @@ then
     exit -1
 fi
 
-unxz < ~/freecell-3fc-determine-solvability/vendu-8-3fc.txt.xz |
+unxz < ~/freecell-3fc-determine-solvability/vendu-9-3fc.txt.xz |
 perl -lnE 'BEGIN { $s = int $ENV{START_FROM} ; } print if ( $_ > $s )' |
 (
 # lim=12000000
