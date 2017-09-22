@@ -40,6 +40,7 @@ def line_iter():
     FILENAMES = [
            'vendu-7-3fc-output.txt',
            'freecell-3fc-amazon.txt',
+           'vendu-8-3fc-output.txt',
            'vendu-6-3fc-output.txt',
            'vendu-2-3fc-output.txt',
            'vendu-3-3fc-output.txt',
