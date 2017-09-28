@@ -42,6 +42,7 @@ def line_iter():
            'freecell-3fc-amazon.txt',
            'vendu-8-3fc-output.txt',
            'vendu-6-3fc-output.txt',
+           'vendu-9-3fc-output.txt',
            'vendu-2-3fc-output.txt',
            'vendu-3-3fc-output.txt',
            'vendu-4-3fc-output.txt',
