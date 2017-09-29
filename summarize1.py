@@ -16,17 +16,17 @@ class DealResult(object):
     def __init__(self, idx, lines):
         self.idx = idx
         self.count = -1
-        for x in lines:
-            if x.startswith("I could not"):
+        for line in lines:
+            if line.startswith("I could not"):
                 self.verdict = self.IMP
                 break
-            elif x.startswith("This game is solv"):
+            elif line.startswith("This game is solv"):
                 self.verdict = self.SOLVED
                 break
-            elif x.startswith("Iterations count exceeded"):
+            elif line.startswith("Iterations count exceeded"):
                 self.verdict = self.INTRACT
-                for y in lines:
-                    m = COUNT_RE.match(y)
+                for line_w_count in lines:
+                    m = COUNT_RE.match(line_w_count)
                     if m:
                         self.count = int(m.group(1))
                         break
