@@ -79,6 +79,8 @@ def deal_iter():
 
 cnt = 0
 for d in deal_iter():
+    # if d.verdict == d.INTRACT:
+    #     print(d.idx)
     cnt += 1
     # print(d)
 
