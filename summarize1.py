@@ -1,4 +1,5 @@
 import re
+import sys
 
 count_re = re.compile(r'^Total number of states checked is ([0-9]+)\.')
 start_re = re.compile(r'^== ([0-9]+) ==$')
@@ -77,18 +78,25 @@ def deal_iter():
         yield result
         l = it.next()
 
-cnt = 0
-verdict_counts = {DealResult.IMP: 0, DealResult.SOLVED: 0,
-                  DealResult.INTRACT: 0}
-for d in deal_iter():
-    # if d.verdict == d.INTRACT:
-    #     print(d.idx)
-    verdict_counts[d.verdict] += 1
-    cnt += 1
-    # print(d)
 
-verdict_names = {DealResult.IMP: "IMP", DealResult.SOLVED: "SOLVED",
-                 DealResult.INTRACT: "INTRACT"}
-print("Deals Count = %d" % (cnt))
-for verdict in verdict_names.keys():
-    print("%-10s : %d" % (verdict_names[verdict], verdict_counts[verdict]))
+def main(argv):
+    cnt = 0
+    verdict_counts = {DealResult.IMP: 0, DealResult.SOLVED: 0,
+                      DealResult.INTRACT: 0}
+    for d in deal_iter():
+        # if d.verdict == d.INTRACT:
+        #     print(d.idx)
+        verdict_counts[d.verdict] += 1
+        cnt += 1
+        # print(d)
+
+    verdict_names = {DealResult.IMP: "IMP", DealResult.SOLVED: "SOLVED",
+                     DealResult.INTRACT: "INTRACT"}
+    print("Deals Count = %d" % (cnt))
+    for verdict in verdict_names.keys():
+        print("%-10s : %d" % (verdict_names[verdict], verdict_counts[verdict]))
+
+    return 0
+
+if __name__ == "__main__":
+    sys.exit(main(sys.argv))
