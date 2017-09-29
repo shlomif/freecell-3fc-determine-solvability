@@ -1,9 +1,9 @@
 import re
 import sys
 
-count_re = re.compile(r'^Total number of states checked is ([0-9]+)\.')
-start_re = re.compile(r'^== ([0-9]+) ==$')
-end_re = re.compile(r'^\[\[== End ([0-9]+) ==\]\]$')
+COUNT_RE = re.compile(r'^Total number of states checked is ([0-9]+)\.')
+START_RE = re.compile(r'^== ([0-9]+) ==$')
+END_RE = re.compile(r'^\[\[== End ([0-9]+) ==\]\]$')
 
 
 class DealResult(object):
@@ -26,7 +26,7 @@ class DealResult(object):
             elif x.startswith("Iterations count exceeded"):
                 self.verdict = self.INTRACT
                 for y in lines:
-                    m = count_re.match(y)
+                    m = COUNT_RE.match(y)
                     if m:
                         self.count = int(m.group(1))
                         break
@@ -66,8 +66,8 @@ def deal_iter():
             lines.append(l)
             l = it.next()
         lines.append(l)
-        idx1 = int(start_re.match(lines[0]).group(1))
-        idx2 = int(end_re.match(lines[-1]).group(1))
+        idx1 = int(START_RE.match(lines[0]).group(1))
+        idx2 = int(END_RE.match(lines[-1]).group(1))
         if idx1 != idx2:
             raise BaseException("index mismatch - %d ; %d" % (idx1, idx2))
         result = DealResult(idx1, lines)
