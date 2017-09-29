@@ -88,7 +88,7 @@ for d in deal_iter():
     # print(d)
 
 verdict_names = {DealResult.IMP: "IMP", DealResult.SOLVED: "SOLVED",
-                  DealResult.INTRACT: "INTRACT"}
+                 DealResult.INTRACT: "INTRACT"}
 print("Deals Count = %d" % (cnt))
 for verdict in verdict_names.keys():
     print("%-10s : %d" % (verdict_names[verdict], verdict_counts[verdict]))
