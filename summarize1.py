@@ -47,6 +47,7 @@ def line_iter():
            'vendu-2-3fc-output.txt',
            'vendu-3-3fc-output.txt',
            'vendu-4-3fc-output.txt',
+           'vendu-10-3fc-output.txt',
            'vendu-5-3fc-output.txt',
            ]
     for fn in FILENAMES:
