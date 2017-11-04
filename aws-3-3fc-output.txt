@@ -1,0 +1,32 @@
+== 5874985850 ==
+I could not solve this game.
+Total number of states checked is 819055.
+[[== End 5874985850 ==]]
+== 5874988077 ==
+I could not solve this game.
+Total number of states checked is 377838.
+[[== End 5874988077 ==]]
+== 5874989768 ==
+I could not solve this game.
+Total number of states checked is 1651667.
+[[== End 5874989768 ==]]
+== 5874990436 ==
+I could not solve this game.
+Total number of states checked is 871148.
+[[== End 5874990436 ==]]
+== 5874990653 ==
+I could not solve this game.
+Total number of states checked is 925073.
+[[== End 5874990653 ==]]
+== 5874998602 ==
+I could not solve this game.
+Total number of states checked is 361607.
+[[== End 5874998602 ==]]
+== 5875002305 ==
+I could not solve this game.
+Total number of states checked is 807169.
+[[== End 5875002305 ==]]
+== 5875006577 ==
+I could not solve this game.
+Total number of states checked is 538372.
+[[== End 5875006577 ==]]
