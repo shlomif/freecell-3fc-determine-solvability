@@ -48,6 +48,7 @@ def line_iter():
            'vendu-3-3fc-output.txt',
            'vendu-4-3fc-output.txt',
            'vendu-10-3fc-output.txt',
+           'aws-3-3fc-output.txt',
            'aws-2-3fc-output.txt',
            'vendu-5-3fc-output.txt',
            ]
