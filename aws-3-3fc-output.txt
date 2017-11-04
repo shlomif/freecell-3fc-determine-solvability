@@ -30,3 +30,1491 @@ Total number of states checked is 807169.
 I could not solve this game.
 Total number of states checked is 538372.
 [[== End 5875006577 ==]]
+== 5875007675 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875007675 ==]]
+== 5875009769 ==
+I could not solve this game.
+Total number of states checked is 367748.
+[[== End 5875009769 ==]]
+== 5875012480 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 466618.
+[[== End 5875012480 ==]]
+== 5875021569 ==
+I could not solve this game.
+Total number of states checked is 668249.
+[[== End 5875021569 ==]]
+== 5875037329 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875037329 ==]]
+== 5875039661 ==
+I could not solve this game.
+Total number of states checked is 648548.
+[[== End 5875039661 ==]]
+== 5875043957 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 6723484.
+[[== End 5875043957 ==]]
+== 5875063198 ==
+I could not solve this game.
+Total number of states checked is 1039920.
+[[== End 5875063198 ==]]
+== 5875070553 ==
+I could not solve this game.
+Total number of states checked is 2342074.
+[[== End 5875070553 ==]]
+== 5875070870 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 658892.
+[[== End 5875070870 ==]]
+== 5875071581 ==
+I could not solve this game.
+Total number of states checked is 5430674.
+[[== End 5875071581 ==]]
+== 5875077281 ==
+I could not solve this game.
+Total number of states checked is 312208.
+[[== End 5875077281 ==]]
+== 5875083351 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875083351 ==]]
+== 5875084442 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 897708.
+[[== End 5875084442 ==]]
+== 5875084961 ==
+I could not solve this game.
+Total number of states checked is 2222071.
+[[== End 5875084961 ==]]
+== 5875085487 ==
+I could not solve this game.
+Total number of states checked is 639934.
+[[== End 5875085487 ==]]
+== 5875089504 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 546263.
+[[== End 5875089504 ==]]
+== 5875091665 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875091665 ==]]
+== 5875092127 ==
+I could not solve this game.
+Total number of states checked is 276107.
+[[== End 5875092127 ==]]
+== 5875107469 ==
+I could not solve this game.
+Total number of states checked is 1071912.
+[[== End 5875107469 ==]]
+== 5875108910 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 2798300.
+[[== End 5875108910 ==]]
+== 5875113792 ==
+I could not solve this game.
+Total number of states checked is 421789.
+[[== End 5875113792 ==]]
+== 5875114236 ==
+I could not solve this game.
+Total number of states checked is 16433903.
+[[== End 5875114236 ==]]
+== 5875126718 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1411321.
+[[== End 5875126718 ==]]
+== 5875127448 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1253024.
+[[== End 5875127448 ==]]
+== 5875135748 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 3801794.
+[[== End 5875135748 ==]]
+== 5875139470 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 672115.
+[[== End 5875139470 ==]]
+== 5875143367 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875143367 ==]]
+== 5875144500 ==
+I could not solve this game.
+Total number of states checked is 785799.
+[[== End 5875144500 ==]]
+== 5875158345 ==
+I could not solve this game.
+Total number of states checked is 275251.
+[[== End 5875158345 ==]]
+== 5875159598 ==
+I could not solve this game.
+Total number of states checked is 276232.
+[[== End 5875159598 ==]]
+== 5875161024 ==
+I could not solve this game.
+Total number of states checked is 859884.
+[[== End 5875161024 ==]]
+== 5875163772 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 6341847.
+[[== End 5875163772 ==]]
+== 5875167861 ==
+I could not solve this game.
+Total number of states checked is 1159828.
+[[== End 5875167861 ==]]
+== 5875174392 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875174392 ==]]
+== 5875192878 ==
+I could not solve this game.
+Total number of states checked is 542504.
+[[== End 5875192878 ==]]
+== 5875204047 ==
+I could not solve this game.
+Total number of states checked is 1171184.
+[[== End 5875204047 ==]]
+== 5875209213 ==
+I could not solve this game.
+Total number of states checked is 695813.
+[[== End 5875209213 ==]]
+== 5875209634 ==
+I could not solve this game.
+Total number of states checked is 559163.
+[[== End 5875209634 ==]]
+== 5875212391 ==
+I could not solve this game.
+Total number of states checked is 18500964.
+[[== End 5875212391 ==]]
+== 5875220439 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 18338722.
+[[== End 5875220439 ==]]
+== 5875221400 ==
+I could not solve this game.
+Total number of states checked is 575745.
+[[== End 5875221400 ==]]
+== 5875228104 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1411358.
+[[== End 5875228104 ==]]
+== 5875229652 ==
+I could not solve this game.
+Total number of states checked is 603548.
+[[== End 5875229652 ==]]
+== 5875233883 ==
+I could not solve this game.
+Total number of states checked is 16155048.
+[[== End 5875233883 ==]]
+== 5875245935 ==
+I could not solve this game.
+Total number of states checked is 2933620.
+[[== End 5875245935 ==]]
+== 5875248206 ==
+I could not solve this game.
+Total number of states checked is 190876.
+[[== End 5875248206 ==]]
+== 5875250574 ==
+I could not solve this game.
+Total number of states checked is 501250.
+[[== End 5875250574 ==]]
+== 5875257533 ==
+I could not solve this game.
+Total number of states checked is 10605077.
+[[== End 5875257533 ==]]
+== 5875262207 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 10530832.
+[[== End 5875262207 ==]]
+== 5875271809 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875271809 ==]]
+== 5875277519 ==
+I could not solve this game.
+Total number of states checked is 14725450.
+[[== End 5875277519 ==]]
+== 5875279615 ==
+I could not solve this game.
+Total number of states checked is 439612.
+[[== End 5875279615 ==]]
+== 5875281732 ==
+I could not solve this game.
+Total number of states checked is 1147900.
+[[== End 5875281732 ==]]
+== 5875285620 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875285620 ==]]
+== 5875287788 ==
+I could not solve this game.
+Total number of states checked is 483586.
+[[== End 5875287788 ==]]
+== 5875289872 ==
+I could not solve this game.
+Total number of states checked is 525347.
+[[== End 5875289872 ==]]
+== 5875296915 ==
+I could not solve this game.
+Total number of states checked is 12965978.
+[[== End 5875296915 ==]]
+== 5875299229 ==
+I could not solve this game.
+Total number of states checked is 4092623.
+[[== End 5875299229 ==]]
+== 5875303012 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875303012 ==]]
+== 5875316023 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 3258986.
+[[== End 5875316023 ==]]
+== 5875317656 ==
+I could not solve this game.
+Total number of states checked is 220810.
+[[== End 5875317656 ==]]
+== 5875318796 ==
+I could not solve this game.
+Total number of states checked is 531986.
+[[== End 5875318796 ==]]
+== 5875319223 ==
+I could not solve this game.
+Total number of states checked is 682555.
+[[== End 5875319223 ==]]
+== 5875322762 ==
+I could not solve this game.
+Total number of states checked is 879211.
+[[== End 5875322762 ==]]
+== 5875323759 ==
+I could not solve this game.
+Total number of states checked is 566059.
+[[== End 5875323759 ==]]
+== 5875325065 ==
+I could not solve this game.
+Total number of states checked is 2265715.
+[[== End 5875325065 ==]]
+== 5875333531 ==
+I could not solve this game.
+Total number of states checked is 842073.
+[[== End 5875333531 ==]]
+== 5875337204 ==
+I could not solve this game.
+Total number of states checked is 390510.
+[[== End 5875337204 ==]]
+== 5875341411 ==
+I could not solve this game.
+Total number of states checked is 358412.
+[[== End 5875341411 ==]]
+== 5875343482 ==
+I could not solve this game.
+Total number of states checked is 1016703.
+[[== End 5875343482 ==]]
+== 5875345220 ==
+I could not solve this game.
+Total number of states checked is 1604563.
+[[== End 5875345220 ==]]
+== 5875351378 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 981924.
+[[== End 5875351378 ==]]
+== 5875359348 ==
+I could not solve this game.
+Total number of states checked is 1663702.
+[[== End 5875359348 ==]]
+== 5875362740 ==
+I could not solve this game.
+Total number of states checked is 654987.
+[[== End 5875362740 ==]]
+== 5875362844 ==
+I could not solve this game.
+Total number of states checked is 7976841.
+[[== End 5875362844 ==]]
+== 5875368045 ==
+I could not solve this game.
+Total number of states checked is 350978.
+[[== End 5875368045 ==]]
+== 5875377575 ==
+I could not solve this game.
+Total number of states checked is 2353048.
+[[== End 5875377575 ==]]
+== 5875382620 ==
+I could not solve this game.
+Total number of states checked is 540765.
+[[== End 5875382620 ==]]
+== 5875384632 ==
+I could not solve this game.
+Total number of states checked is 291301.
+[[== End 5875384632 ==]]
+== 5875394704 ==
+I could not solve this game.
+Total number of states checked is 455640.
+[[== End 5875394704 ==]]
+== 5875402500 ==
+I could not solve this game.
+Total number of states checked is 693343.
+[[== End 5875402500 ==]]
+== 5875404828 ==
+I could not solve this game.
+Total number of states checked is 1888248.
+[[== End 5875404828 ==]]
+== 5875405101 ==
+I could not solve this game.
+Total number of states checked is 408795.
+[[== End 5875405101 ==]]
+== 5875410959 ==
+I could not solve this game.
+Total number of states checked is 402095.
+[[== End 5875410959 ==]]
+== 5875424540 ==
+I could not solve this game.
+Total number of states checked is 782611.
+[[== End 5875424540 ==]]
+== 5875432149 ==
+I could not solve this game.
+Total number of states checked is 1590928.
+[[== End 5875432149 ==]]
+== 5875438122 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 611783.
+[[== End 5875438122 ==]]
+== 5875451958 ==
+I could not solve this game.
+Total number of states checked is 3010206.
+[[== End 5875451958 ==]]
+== 5875452805 ==
+I could not solve this game.
+Total number of states checked is 7472938.
+[[== End 5875452805 ==]]
+== 5875462228 ==
+I could not solve this game.
+Total number of states checked is 2170708.
+[[== End 5875462228 ==]]
+== 5875467089 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875467089 ==]]
+== 5875469075 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875469075 ==]]
+== 5875474154 ==
+I could not solve this game.
+Total number of states checked is 6887710.
+[[== End 5875474154 ==]]
+== 5875477041 ==
+I could not solve this game.
+Total number of states checked is 994293.
+[[== End 5875477041 ==]]
+== 5875480916 ==
+I could not solve this game.
+Total number of states checked is 4067482.
+[[== End 5875480916 ==]]
+== 5875488206 ==
+I could not solve this game.
+Total number of states checked is 672993.
+[[== End 5875488206 ==]]
+== 5875491669 ==
+I could not solve this game.
+Total number of states checked is 296100.
+[[== End 5875491669 ==]]
+== 5875494912 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 426382.
+[[== End 5875494912 ==]]
+== 5875495957 ==
+I could not solve this game.
+Total number of states checked is 172086.
+[[== End 5875495957 ==]]
+== 5875499677 ==
+I could not solve this game.
+Total number of states checked is 1735754.
+[[== End 5875499677 ==]]
+== 5875501559 ==
+I could not solve this game.
+Total number of states checked is 338195.
+[[== End 5875501559 ==]]
+== 5875502823 ==
+I could not solve this game.
+Total number of states checked is 308690.
+[[== End 5875502823 ==]]
+== 5875503891 ==
+I could not solve this game.
+Total number of states checked is 4456814.
+[[== End 5875503891 ==]]
+== 5875509367 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 18925489.
+[[== End 5875509367 ==]]
+== 5875510695 ==
+I could not solve this game.
+Total number of states checked is 325454.
+[[== End 5875510695 ==]]
+== 5875517029 ==
+I could not solve this game.
+Total number of states checked is 704969.
+[[== End 5875517029 ==]]
+== 5875519166 ==
+I could not solve this game.
+Total number of states checked is 2246647.
+[[== End 5875519166 ==]]
+== 5875521510 ==
+I could not solve this game.
+Total number of states checked is 1016183.
+[[== End 5875521510 ==]]
+== 5875523106 ==
+I could not solve this game.
+Total number of states checked is 542831.
+[[== End 5875523106 ==]]
+== 5875531887 ==
+I could not solve this game.
+Total number of states checked is 428785.
+[[== End 5875531887 ==]]
+== 5875531888 ==
+I could not solve this game.
+Total number of states checked is 623949.
+[[== End 5875531888 ==]]
+== 5875540097 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875540097 ==]]
+== 5875541225 ==
+I could not solve this game.
+Total number of states checked is 1026917.
+[[== End 5875541225 ==]]
+== 5875545076 ==
+I could not solve this game.
+Total number of states checked is 406261.
+[[== End 5875545076 ==]]
+== 5875548276 ==
+I could not solve this game.
+Total number of states checked is 6722220.
+[[== End 5875548276 ==]]
+== 5875553644 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 2189953.
+[[== End 5875553644 ==]]
+== 5875555540 ==
+I could not solve this game.
+Total number of states checked is 4148557.
+[[== End 5875555540 ==]]
+== 5875557021 ==
+I could not solve this game.
+Total number of states checked is 273137.
+[[== End 5875557021 ==]]
+== 5875569901 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875569901 ==]]
+== 5875570240 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875570240 ==]]
+== 5875572302 ==
+I could not solve this game.
+Total number of states checked is 4452305.
+[[== End 5875572302 ==]]
+== 5875579338 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 955629.
+[[== End 5875579338 ==]]
+== 5875590949 ==
+I could not solve this game.
+Total number of states checked is 1135454.
+[[== End 5875590949 ==]]
+== 5875591441 ==
+I could not solve this game.
+Total number of states checked is 370334.
+[[== End 5875591441 ==]]
+== 5875599207 ==
+I could not solve this game.
+Total number of states checked is 565202.
+[[== End 5875599207 ==]]
+== 5875600241 ==
+I could not solve this game.
+Total number of states checked is 186002.
+[[== End 5875600241 ==]]
+== 5875603649 ==
+I could not solve this game.
+Total number of states checked is 678831.
+[[== End 5875603649 ==]]
+== 5875610890 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 18441515.
+[[== End 5875610890 ==]]
+== 5875611978 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875611978 ==]]
+== 5875612811 ==
+I could not solve this game.
+Total number of states checked is 830490.
+[[== End 5875612811 ==]]
+== 5875617768 ==
+I could not solve this game.
+Total number of states checked is 2248315.
+[[== End 5875617768 ==]]
+== 5875635906 ==
+I could not solve this game.
+Total number of states checked is 2259085.
+[[== End 5875635906 ==]]
+== 5875636099 ==
+I could not solve this game.
+Total number of states checked is 1499450.
+[[== End 5875636099 ==]]
+== 5875648203 ==
+I could not solve this game.
+Total number of states checked is 656420.
+[[== End 5875648203 ==]]
+== 5875649936 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 9345122.
+[[== End 5875649936 ==]]
+== 5875652422 ==
+I could not solve this game.
+Total number of states checked is 2027733.
+[[== End 5875652422 ==]]
+== 5875654096 ==
+I could not solve this game.
+Total number of states checked is 302685.
+[[== End 5875654096 ==]]
+== 5875655303 ==
+I could not solve this game.
+Total number of states checked is 9300487.
+[[== End 5875655303 ==]]
+== 5875656292 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875656292 ==]]
+== 5875664810 ==
+I could not solve this game.
+Total number of states checked is 1649022.
+[[== End 5875664810 ==]]
+== 5875667418 ==
+I could not solve this game.
+Total number of states checked is 1762091.
+[[== End 5875667418 ==]]
+== 5875682130 ==
+I could not solve this game.
+Total number of states checked is 543111.
+[[== End 5875682130 ==]]
+== 5875689371 ==
+I could not solve this game.
+Total number of states checked is 174393.
+[[== End 5875689371 ==]]
+== 5875689611 ==
+I could not solve this game.
+Total number of states checked is 12354769.
+[[== End 5875689611 ==]]
+== 5875692982 ==
+I could not solve this game.
+Total number of states checked is 430405.
+[[== End 5875692982 ==]]
+== 5875703053 ==
+I could not solve this game.
+Total number of states checked is 259229.
+[[== End 5875703053 ==]]
+== 5875706653 ==
+I could not solve this game.
+Total number of states checked is 7450052.
+[[== End 5875706653 ==]]
+== 5875717651 ==
+I could not solve this game.
+Total number of states checked is 1284305.
+[[== End 5875717651 ==]]
+== 5875719870 ==
+I could not solve this game.
+Total number of states checked is 331514.
+[[== End 5875719870 ==]]
+== 5875721911 ==
+I could not solve this game.
+Total number of states checked is 3116407.
+[[== End 5875721911 ==]]
+== 5875723472 ==
+I could not solve this game.
+Total number of states checked is 354211.
+[[== End 5875723472 ==]]
+== 5875726729 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 6472245.
+[[== End 5875726729 ==]]
+== 5875727223 ==
+I could not solve this game.
+Total number of states checked is 5821280.
+[[== End 5875727223 ==]]
+== 5875728615 ==
+I could not solve this game.
+Total number of states checked is 424914.
+[[== End 5875728615 ==]]
+== 5875749692 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875749692 ==]]
+== 5875757874 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1971078.
+[[== End 5875757874 ==]]
+== 5875784611 ==
+I could not solve this game.
+Total number of states checked is 181183.
+[[== End 5875784611 ==]]
+== 5875792009 ==
+I could not solve this game.
+Total number of states checked is 662687.
+[[== End 5875792009 ==]]
+== 5875792426 ==
+I could not solve this game.
+Total number of states checked is 391916.
+[[== End 5875792426 ==]]
+== 5875794375 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 272310.
+[[== End 5875794375 ==]]
+== 5875794575 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 3376848.
+[[== End 5875794575 ==]]
+== 5875794691 ==
+I could not solve this game.
+Total number of states checked is 1548773.
+[[== End 5875794691 ==]]
+== 5875796332 ==
+I could not solve this game.
+Total number of states checked is 669599.
+[[== End 5875796332 ==]]
+== 5875802460 ==
+I could not solve this game.
+Total number of states checked is 441113.
+[[== End 5875802460 ==]]
+== 5875811032 ==
+I could not solve this game.
+Total number of states checked is 1909959.
+[[== End 5875811032 ==]]
+== 5875812418 ==
+I could not solve this game.
+Total number of states checked is 1274614.
+[[== End 5875812418 ==]]
+== 5875819572 ==
+I could not solve this game.
+Total number of states checked is 5961273.
+[[== End 5875819572 ==]]
+== 5875819830 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875819830 ==]]
+== 5875824103 ==
+I could not solve this game.
+Total number of states checked is 1627204.
+[[== End 5875824103 ==]]
+== 5875835351 ==
+I could not solve this game.
+Total number of states checked is 994122.
+[[== End 5875835351 ==]]
+== 5875835981 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875835981 ==]]
+== 5875837031 ==
+I could not solve this game.
+Total number of states checked is 5783394.
+[[== End 5875837031 ==]]
+== 5875843261 ==
+I could not solve this game.
+Total number of states checked is 2457781.
+[[== End 5875843261 ==]]
+== 5875852746 ==
+I could not solve this game.
+Total number of states checked is 803480.
+[[== End 5875852746 ==]]
+== 5875854155 ==
+I could not solve this game.
+Total number of states checked is 480304.
+[[== End 5875854155 ==]]
+== 5875855586 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 755867.
+[[== End 5875855586 ==]]
+== 5875867764 ==
+I could not solve this game.
+Total number of states checked is 969941.
+[[== End 5875867764 ==]]
+== 5875881181 ==
+I could not solve this game.
+Total number of states checked is 1879746.
+[[== End 5875881181 ==]]
+== 5875881364 ==
+I could not solve this game.
+Total number of states checked is 613135.
+[[== End 5875881364 ==]]
+== 5875881639 ==
+I could not solve this game.
+Total number of states checked is 236912.
+[[== End 5875881639 ==]]
+== 5875884227 ==
+I could not solve this game.
+Total number of states checked is 952969.
+[[== End 5875884227 ==]]
+== 5875885859 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 3871343.
+[[== End 5875885859 ==]]
+== 5875886734 ==
+I could not solve this game.
+Total number of states checked is 604648.
+[[== End 5875886734 ==]]
+== 5875890204 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 735513.
+[[== End 5875890204 ==]]
+== 5875892008 ==
+I could not solve this game.
+Total number of states checked is 593319.
+[[== End 5875892008 ==]]
+== 5875899955 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 7557626.
+[[== End 5875899955 ==]]
+== 5875902520 ==
+I could not solve this game.
+Total number of states checked is 1047793.
+[[== End 5875902520 ==]]
+== 5875905702 ==
+I could not solve this game.
+Total number of states checked is 1315807.
+[[== End 5875905702 ==]]
+== 5875906835 ==
+I could not solve this game.
+Total number of states checked is 866639.
+[[== End 5875906835 ==]]
+== 5875907764 ==
+I could not solve this game.
+Total number of states checked is 464545.
+[[== End 5875907764 ==]]
+== 5875921303 ==
+I could not solve this game.
+Total number of states checked is 861998.
+[[== End 5875921303 ==]]
+== 5875922025 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5875922025 ==]]
+== 5875924558 ==
+I could not solve this game.
+Total number of states checked is 707347.
+[[== End 5875924558 ==]]
+== 5875925954 ==
+I could not solve this game.
+Total number of states checked is 530038.
+[[== End 5875925954 ==]]
+== 5875929170 ==
+I could not solve this game.
+Total number of states checked is 290117.
+[[== End 5875929170 ==]]
+== 5875930476 ==
+I could not solve this game.
+Total number of states checked is 485871.
+[[== End 5875930476 ==]]
+== 5875948702 ==
+I could not solve this game.
+Total number of states checked is 606063.
+[[== End 5875948702 ==]]
+== 5875950766 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 3347223.
+[[== End 5875950766 ==]]
+== 5875953419 ==
+I could not solve this game.
+Total number of states checked is 381509.
+[[== End 5875953419 ==]]
+== 5875958306 ==
+I could not solve this game.
+Total number of states checked is 489799.
+[[== End 5875958306 ==]]
+== 5875961704 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 474059.
+[[== End 5875961704 ==]]
+== 5875962348 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 13462133.
+[[== End 5875962348 ==]]
+== 5875963312 ==
+I could not solve this game.
+Total number of states checked is 581265.
+[[== End 5875963312 ==]]
+== 5875972795 ==
+I could not solve this game.
+Total number of states checked is 1116372.
+[[== End 5875972795 ==]]
+== 5875975947 ==
+I could not solve this game.
+Total number of states checked is 5682049.
+[[== End 5875975947 ==]]
+== 5875988212 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1167689.
+[[== End 5875988212 ==]]
+== 5875991674 ==
+I could not solve this game.
+Total number of states checked is 630762.
+[[== End 5875991674 ==]]
+== 5875995148 ==
+I could not solve this game.
+Total number of states checked is 453586.
+[[== End 5875995148 ==]]
+== 5876002001 ==
+I could not solve this game.
+Total number of states checked is 824940.
+[[== End 5876002001 ==]]
+== 5876002452 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876002452 ==]]
+== 5876002555 ==
+I could not solve this game.
+Total number of states checked is 1172087.
+[[== End 5876002555 ==]]
+== 5876028375 ==
+I could not solve this game.
+Total number of states checked is 2693191.
+[[== End 5876028375 ==]]
+== 5876031955 ==
+I could not solve this game.
+Total number of states checked is 512856.
+[[== End 5876031955 ==]]
+== 5876032006 ==
+I could not solve this game.
+Total number of states checked is 365751.
+[[== End 5876032006 ==]]
+== 5876038585 ==
+I could not solve this game.
+Total number of states checked is 439535.
+[[== End 5876038585 ==]]
+== 5876040572 ==
+I could not solve this game.
+Total number of states checked is 776377.
+[[== End 5876040572 ==]]
+== 5876040935 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 6635848.
+[[== End 5876040935 ==]]
+== 5876044603 ==
+I could not solve this game.
+Total number of states checked is 852576.
+[[== End 5876044603 ==]]
+== 5876047398 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1249045.
+[[== End 5876047398 ==]]
+== 5876054394 ==
+I could not solve this game.
+Total number of states checked is 3976365.
+[[== End 5876054394 ==]]
+== 5876055987 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 15371441.
+[[== End 5876055987 ==]]
+== 5876057835 ==
+I could not solve this game.
+Total number of states checked is 346689.
+[[== End 5876057835 ==]]
+== 5876064345 ==
+I could not solve this game.
+Total number of states checked is 2623754.
+[[== End 5876064345 ==]]
+== 5876065564 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876065564 ==]]
+== 5876067716 ==
+I could not solve this game.
+Total number of states checked is 637027.
+[[== End 5876067716 ==]]
+== 5876071581 ==
+I could not solve this game.
+Total number of states checked is 605041.
+[[== End 5876071581 ==]]
+== 5876080277 ==
+I could not solve this game.
+Total number of states checked is 3079654.
+[[== End 5876080277 ==]]
+== 5876081785 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1933840.
+[[== End 5876081785 ==]]
+== 5876088085 ==
+I could not solve this game.
+Total number of states checked is 5099746.
+[[== End 5876088085 ==]]
+== 5876088757 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 466167.
+[[== End 5876088757 ==]]
+== 5876100070 ==
+I could not solve this game.
+Total number of states checked is 300380.
+[[== End 5876100070 ==]]
+== 5876104543 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876104543 ==]]
+== 5876109551 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1596079.
+[[== End 5876109551 ==]]
+== 5876118938 ==
+I could not solve this game.
+Total number of states checked is 1689158.
+[[== End 5876118938 ==]]
+== 5876125491 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876125491 ==]]
+== 5876132761 ==
+I could not solve this game.
+Total number of states checked is 2350266.
+[[== End 5876132761 ==]]
+== 5876148490 ==
+I could not solve this game.
+Total number of states checked is 5427864.
+[[== End 5876148490 ==]]
+== 5876152072 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876152072 ==]]
+== 5876170325 ==
+I could not solve this game.
+Total number of states checked is 7659295.
+[[== End 5876170325 ==]]
+== 5876175155 ==
+I could not solve this game.
+Total number of states checked is 595230.
+[[== End 5876175155 ==]]
+== 5876181353 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876181353 ==]]
+== 5876182657 ==
+I could not solve this game.
+Total number of states checked is 3251746.
+[[== End 5876182657 ==]]
+== 5876184263 ==
+I could not solve this game.
+Total number of states checked is 3717906.
+[[== End 5876184263 ==]]
+== 5876185372 ==
+I could not solve this game.
+Total number of states checked is 362779.
+[[== End 5876185372 ==]]
+== 5876188218 ==
+I could not solve this game.
+Total number of states checked is 1285014.
+[[== End 5876188218 ==]]
+== 5876188636 ==
+I could not solve this game.
+Total number of states checked is 470706.
+[[== End 5876188636 ==]]
+== 5876191893 ==
+I could not solve this game.
+Total number of states checked is 691833.
+[[== End 5876191893 ==]]
+== 5876195849 ==
+I could not solve this game.
+Total number of states checked is 704494.
+[[== End 5876195849 ==]]
+== 5876210621 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876210621 ==]]
+== 5876215949 ==
+I could not solve this game.
+Total number of states checked is 5535652.
+[[== End 5876215949 ==]]
+== 5876218197 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 7781654.
+[[== End 5876218197 ==]]
+== 5876220999 ==
+I could not solve this game.
+Total number of states checked is 828523.
+[[== End 5876220999 ==]]
+== 5876228607 ==
+I could not solve this game.
+Total number of states checked is 2704906.
+[[== End 5876228607 ==]]
+== 5876234466 ==
+I could not solve this game.
+Total number of states checked is 988736.
+[[== End 5876234466 ==]]
+== 5876235437 ==
+I could not solve this game.
+Total number of states checked is 7072736.
+[[== End 5876235437 ==]]
+== 5876243034 ==
+I could not solve this game.
+Total number of states checked is 358246.
+[[== End 5876243034 ==]]
+== 5876244272 ==
+I could not solve this game.
+Total number of states checked is 2465517.
+[[== End 5876244272 ==]]
+== 5876252308 ==
+I could not solve this game.
+Total number of states checked is 574454.
+[[== End 5876252308 ==]]
+== 5876253314 ==
+I could not solve this game.
+Total number of states checked is 305476.
+[[== End 5876253314 ==]]
+== 5876268539 ==
+I could not solve this game.
+Total number of states checked is 1130479.
+[[== End 5876268539 ==]]
+== 5876270872 ==
+I could not solve this game.
+Total number of states checked is 323724.
+[[== End 5876270872 ==]]
+== 5876274676 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 793826.
+[[== End 5876274676 ==]]
+== 5876281921 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1270301.
+[[== End 5876281921 ==]]
+== 5876289994 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876289994 ==]]
+== 5876296553 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 5007813.
+[[== End 5876296553 ==]]
+== 5876298609 ==
+I could not solve this game.
+Total number of states checked is 675005.
+[[== End 5876298609 ==]]
+== 5876300803 ==
+I could not solve this game.
+Total number of states checked is 4467425.
+[[== End 5876300803 ==]]
+== 5876301031 ==
+I could not solve this game.
+Total number of states checked is 3237419.
+[[== End 5876301031 ==]]
+== 5876305975 ==
+I could not solve this game.
+Total number of states checked is 6003187.
+[[== End 5876305975 ==]]
+== 5876310334 ==
+I could not solve this game.
+Total number of states checked is 1760850.
+[[== End 5876310334 ==]]
+== 5876312627 ==
+I could not solve this game.
+Total number of states checked is 2139628.
+[[== End 5876312627 ==]]
+== 5876316031 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876316031 ==]]
+== 5876321685 ==
+I could not solve this game.
+Total number of states checked is 1648382.
+[[== End 5876321685 ==]]
+== 5876326505 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 60011.
+[[== End 5876326505 ==]]
+== 5876331293 ==
+I could not solve this game.
+Total number of states checked is 339115.
+[[== End 5876331293 ==]]
+== 5876337297 ==
+I could not solve this game.
+Total number of states checked is 3363450.
+[[== End 5876337297 ==]]
+== 5876339467 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 2063909.
+[[== End 5876339467 ==]]
+== 5876349341 ==
+I could not solve this game.
+Total number of states checked is 394127.
+[[== End 5876349341 ==]]
+== 5876354346 ==
+I could not solve this game.
+Total number of states checked is 951445.
+[[== End 5876354346 ==]]
+== 5876355142 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 3829386.
+[[== End 5876355142 ==]]
+== 5876374092 ==
+I could not solve this game.
+Total number of states checked is 15402889.
+[[== End 5876374092 ==]]
+== 5876400673 ==
+I could not solve this game.
+Total number of states checked is 277115.
+[[== End 5876400673 ==]]
+== 5876417855 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876417855 ==]]
+== 5876420365 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876420365 ==]]
+== 5876421349 ==
+I could not solve this game.
+Total number of states checked is 286277.
+[[== End 5876421349 ==]]
+== 5876421500 ==
+I could not solve this game.
+Total number of states checked is 304765.
+[[== End 5876421500 ==]]
+== 5876428628 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876428628 ==]]
+== 5876430221 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1770506.
+[[== End 5876430221 ==]]
+== 5876438974 ==
+I could not solve this game.
+Total number of states checked is 310924.
+[[== End 5876438974 ==]]
+== 5876440444 ==
+I could not solve this game.
+Total number of states checked is 13276917.
+[[== End 5876440444 ==]]
+== 5876441933 ==
+I could not solve this game.
+Total number of states checked is 232128.
+[[== End 5876441933 ==]]
+== 5876447154 ==
+I could not solve this game.
+Total number of states checked is 946915.
+[[== End 5876447154 ==]]
+== 5876448957 ==
+I could not solve this game.
+Total number of states checked is 2051663.
+[[== End 5876448957 ==]]
+== 5876449418 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 426279.
+[[== End 5876449418 ==]]
+== 5876460381 ==
+I could not solve this game.
+Total number of states checked is 1101851.
+[[== End 5876460381 ==]]
+== 5876460512 ==
+I could not solve this game.
+Total number of states checked is 287762.
+[[== End 5876460512 ==]]
+== 5876469413 ==
+I could not solve this game.
+Total number of states checked is 271285.
+[[== End 5876469413 ==]]
+== 5876472584 ==
+I could not solve this game.
+Total number of states checked is 5043678.
+[[== End 5876472584 ==]]
+== 5876476323 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1975587.
+[[== End 5876476323 ==]]
+== 5876480383 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876480383 ==]]
+== 5876488313 ==
+I could not solve this game.
+Total number of states checked is 6076720.
+[[== End 5876488313 ==]]
+== 5876490226 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 8735027.
+[[== End 5876490226 ==]]
+== 5876495527 ==
+I could not solve this game.
+Total number of states checked is 427508.
+[[== End 5876495527 ==]]
+== 5876497252 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 669311.
+[[== End 5876497252 ==]]
+== 5876501788 ==
+I could not solve this game.
+Total number of states checked is 3244881.
+[[== End 5876501788 ==]]
+== 5876501800 ==
+I could not solve this game.
+Total number of states checked is 1000702.
+[[== End 5876501800 ==]]
+== 5876502208 ==
+I could not solve this game.
+Total number of states checked is 2582247.
+[[== End 5876502208 ==]]
+== 5876502439 ==
+I could not solve this game.
+Total number of states checked is 1272002.
+[[== End 5876502439 ==]]
+== 5876503536 ==
+Iterations count exceeded.
+Total number of states checked is 20000000.
+[[== End 5876503536 ==]]
+== 5876506535 ==
+I could not solve this game.
+Total number of states checked is 10321793.
+[[== End 5876506535 ==]]
+== 5876517621 ==
+I could not solve this game.
+Total number of states checked is 160984.
+[[== End 5876517621 ==]]
+== 5876527077 ==
+I could not solve this game.
+Total number of states checked is 744855.
+[[== End 5876527077 ==]]
+== 5876528657 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 5190079.
+[[== End 5876528657 ==]]
+== 5876530609 ==
+I could not solve this game.
+Total number of states checked is 769751.
+[[== End 5876530609 ==]]
+== 5876534828 ==
+I could not solve this game.
+Total number of states checked is 11511920.
+[[== End 5876534828 ==]]
+== 5876535400 ==
+I could not solve this game.
+Total number of states checked is 271489.
+[[== End 5876535400 ==]]
+== 5876536338 ==
+I could not solve this game.
+Total number of states checked is 1005208.
+[[== End 5876536338 ==]]
+== 5876537056 ==
+I could not solve this game.
+Total number of states checked is 5552922.
+[[== End 5876537056 ==]]
+== 5876538189 ==
+I could not solve this game.
+Total number of states checked is 1061201.
+[[== End 5876538189 ==]]
+== 5876542015 ==
+I could not solve this game.
+Total number of states checked is 1064158.
+[[== End 5876542015 ==]]
+== 5876544980 ==
+I could not solve this game.
+Total number of states checked is 6420839.
+[[== End 5876544980 ==]]
+== 5876550456 ==
+I could not solve this game.
+Total number of states checked is 306787.
+[[== End 5876550456 ==]]
+== 5876551037 ==
+I could not solve this game.
+Total number of states checked is 832810.
+[[== End 5876551037 ==]]
+== 5876557696 ==
+I could not solve this game.
+Total number of states checked is 343829.
+[[== End 5876557696 ==]]
+== 5876560370 ==
+I could not solve this game.
+Total number of states checked is 11464057.
+[[== End 5876560370 ==]]
+== 5876561425 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 1156398.
+[[== End 5876561425 ==]]
+== 5876569681 ==
+I could not solve this game.
+Total number of states checked is 1005623.
+[[== End 5876569681 ==]]
+== 5876570252 ==
+I could not solve this game.
+Total number of states checked is 1284281.
+[[== End 5876570252 ==]]
+== 5876572492 ==
+I could not solve this game.
+Total number of states checked is 285988.
+[[== End 5876572492 ==]]
+== 5876575523 ==
+I could not solve this game.
+Total number of states checked is 1862860.
+[[== End 5876575523 ==]]
+== 5876582152 ==
+I could not solve this game.
+Total number of states checked is 2236910.
+[[== End 5876582152 ==]]
+== 5876587563 ==
+I could not solve this game.
+Total number of states checked is 709090.
+[[== End 5876587563 ==]]
+== 5876591727 ==
+I could not solve this game.
+Total number of states checked is 4809168.
+[[== End 5876591727 ==]]
+== 5876598242 ==
+I could not solve this game.
+Total number of states checked is 2758820.
+[[== End 5876598242 ==]]
+== 5876602280 ==
+I could not solve this game.
+Total number of states checked is 213010.
+[[== End 5876602280 ==]]
+== 5876604133 ==
+I could not solve this game.
+Total number of states checked is 824378.
+[[== End 5876604133 ==]]
+== 5876605717 ==
+I could not solve this game.
+Total number of states checked is 1005281.
+[[== End 5876605717 ==]]
+== 5876609120 ==
+I could not solve this game.
+Total number of states checked is 497157.
+[[== End 5876609120 ==]]
+== 5876616659 ==
+-=-=-=-=-=-=-=-=-=-=-=-
+
+This game is solveable.
+Total number of states checked is 2607065.
+[[== End 5876616659 ==]]
+== 5876628697 ==
+I could not solve this game.
+Total number of states checked is 1872278.
+[[== End 5876628697 ==]]
+== 5876637588 ==
+I could not solve this game.
+Total number of states checked is 295883.
+[[== End 5876637588 ==]]
+== 5876638836 ==
+I could not solve this game.
+Total number of states checked is 1239038.
+[[== End 5876638836 ==]]
+== 5876649366 ==
+I could not solve this game.
+Total number of states checked is 1462441.
+[[== End 5876649366 ==]]
