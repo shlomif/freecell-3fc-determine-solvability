@@ -90,12 +90,15 @@ def main(argv):
     for verdict in verdict_names.keys():
         verdict_counts[verdict] = 0
     with open('intract1.txt', 'w') as fh:
-        for d in deal_iter():
-            if d.verdict == d.INTRACT:
-                fh.write("%d\n" % (d.idx))
-            verdict_counts[d.verdict] += 1
-            cnt += 1
-            # print(d)
+        with open('all-deals.txt', 'w') as all_fh:
+            for d in deal_iter():
+                i = d.idx
+                all_fh.write("%d\n" % (i))
+                if d.verdict == d.INTRACT:
+                    fh.write("%d\n" % (i))
+                verdict_counts[d.verdict] += 1
+                cnt += 1
+                # print(d)
 
     print("Deals Count = %d" % (cnt))
     for verdict in verdict_names.keys():
