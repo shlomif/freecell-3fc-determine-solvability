@@ -54,21 +54,21 @@ def line_iter():
            ]
     for fn in FILENAMES:
         with open(fn, 'r') as fh:
-            for l in fh:
-                yield l.rstrip('\r\n')
+            for line in fh:
+                yield line.rstrip('\r\n')
 
 
 def deal_iter():
     it = line_iter()
-    l = it.next()
+    line = it.next()
     prev_idx = -1
-    while l:
-        lines = [l]
-        l = it.next()
-        while l is not None and not l.startswith('[[== End '):
-            lines.append(l)
-            l = it.next()
-        lines.append(l)
+    while line:
+        lines = [line]
+        line = it.next()
+        while line is not None and not line.startswith('[[== End '):
+            lines.append(line)
+            line = it.next()
+        lines.append(line)
         idx1 = int(START_RE.match(lines[0]).group(1))
         idx2 = int(END_RE.match(lines[-1]).group(1))
         if idx1 != idx2:
@@ -79,7 +79,7 @@ def deal_iter():
                                 (prev_idx, idx1))
         prev_idx = idx1
         yield result
-        l = it.next()
+        line = it.next()
 
 
 def main(argv):
@@ -105,6 +105,7 @@ def main(argv):
         print("%-10s : %d" % (verdict_names[verdict], verdict_counts[verdict]))
 
     return 0
+
 
 if __name__ == "__main__":
     sys.exit(main(sys.argv))
