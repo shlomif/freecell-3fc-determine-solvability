@@ -1,0 +1,1 @@
+./summary-fc-solve slurp <(perl -lnE 'say if $_ > 4801134563 ' < /home/shlomif/Download/unpack/games/freecell/freecell-pro-3fc-deals/Int3.txt ) -- -l cm -mi 13000000 | tee -a ~/Arcs/fc3-int3-results.txt | commify
