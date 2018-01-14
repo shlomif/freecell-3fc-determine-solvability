@@ -1,5 +1,5 @@
 cd ~/Backup/Arcs/fc-solve/3fc-b/
-log_fn="/home/shlomif/Arcs/fc3-int3-results--4.txt"
+log_fn="$HOME/Arcs/fc3-int3-results--4.txt"
 
 if test -e "$log_fn"
 then
