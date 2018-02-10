@@ -13,11 +13,12 @@ then
     echo "Error" 1>&2
     exit -1
 fi
-
+export TIMESTAMPER_FORMAT="%Y-%m-%d-%H:%M:%S"
 export FREECELL_SOLVER_QUIET=1
 ./summary-fc-solve slurp <(perl -lnE 'BEGIN { $s = int $ENV{START_FROM} ; } print if ( $_ > $s and $_ < 2e9 )' < ~/Download/unpack/games/freecell/freecell-pro-3fc-deals--split/Int3.txt ) -- -l cm -mi 20000000 |
     tee -a "$log_fn" |
     commify |
-    timestamper
+    timestamper |
+    perl ~/progs/perl/cpan/App/Timestamper/git/App-Timestamper/contrib/ts-format
 
 n -m 3fc
